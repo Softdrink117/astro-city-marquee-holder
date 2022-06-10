@@ -7,6 +7,8 @@ Design by Tobias Heinemann / Softdrink 117 c. 2022
 
 This repository contains basic designs for DIY laser-cut marquee holders compatible with the SEGA Astro City and New Astro City arcade cabinets.
 
+![V1 installed on a New Astro City cabinet, with an A4 instruction card mounted](./V1/photos/AstroMarquee_V1_Installed.jpg)
+
 ## Versions
 
 ### [Version 1](./V1/)
@@ -21,16 +23,18 @@ WIP...
 
 |  | Original SEGA | [Softdrink V1](./V1/) |
 | ------: | :-------------: | :--: |
-| **Max. marquee size** | ISO A4 | ISO A3 |
+| **Max. marquee size** | ISO B4* | ISO A3 |
 | **Construction** | Cast plastic | Laser-cut acrylic |
-| **UV properties** | Unknown | Controllable* |
+| **UV properties** | Unknown | Controllable** |
 | **Dimensions** | 469 x 345mm | 472 x 346mm |
 | **Tapered Width** | 433mm | 432mm |
 | **Bottom Corner Radii** | Approx. 10mm | 10mm |
 | **Top Corner Radii** | Approx. 15mm | 10mm |
 | **Cabinet clearance** | 5mm | Approx. 3mm |
 
-> *Using different types of acrylic with known properties, it would be possible to make UV-safe marquee holders, to better protect original game artwork.
+> *Technically, the largest supported size with the original holder design is approx. 360mm x 270mm. This is larger than ISO A4 or ISO B4, but not as large as JP B4 or ISO B3.
+
+> **Using different types of acrylic with known properties, it would be possible to make UV-safe marquee holders, to better protect original game artwork.
 
 
 ## Bill of Materials
