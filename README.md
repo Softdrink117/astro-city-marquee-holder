@@ -9,7 +9,7 @@ This repository contains basic designs for DIY laser-cut marquee holders compati
 
 ## Versions
 
-### Version 1
+### [Version 1](./V1/)
 This was created using reference images scrounged from the internet, and rough dimensions provided by a couple friends. It has a number of dimensional inaccuracies when compared with the original design, and uses a simpler construction that is more achievable for a DIY project (layered acrylic compared to the molded plastic of the original).
 
 Despite the inaccuracies, this design has a couple useful advantages compared to the original. In particular, being able to fit larger artwork has been a feature I've enjoyed a lot.
@@ -19,7 +19,7 @@ WIP...
 
 ### Comparison Table
 
-|  | Original SEGA | Softdrink V1 |
+|  | Original SEGA | [Softdrink V1](./V1/) |
 | ------: | :-------------: | :--: |
 | **Max. marquee size** | ISO A4 | ISO A3 |
 | **Construction** | Cast plastic | Laser-cut acrylic |
